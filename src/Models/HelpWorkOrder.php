@@ -2,7 +2,7 @@
 
 namespace SmallRuralDog\HelpCenter\Models;
 
-use App\User;
+use App\Models\User;
 use Illuminate\Database\Eloquent\Model;
 
 class HelpWorkOrder extends Model
